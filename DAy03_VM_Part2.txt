@@ -7,3 +7,8 @@
 # open terminal                                            |
 # run command                                              |
     < ssh -i your.pem_file_location user@public_ip >
+# don't forget to give neccessary permisions to your pem 
+file
+if you are having trouble in accessing your instance 
+run the command
+< chmod 600 your.pem_file >
