@@ -1,9 +1,9 @@
-******AWS******
-# Search for AWS 
-# Sign in on AWS console
-# Search for EC2 
-# fill in all the details
-# copy the public IP of your ec2 instance
-# open terminal
-# run command
+******AWS Manual******                                     |       ****************AWS Scripting*******************
+# Search for AWS                                           |   # AWS cli
+# Sign in on AWS console                                   |   # AWS API(Boto3)
+# Search for EC2                                           |   # AWS CFT
+# fill in all the details                                  |   # Terraform
+# copy the public IP of your ec2 instance                  |   # AWS CDK
+# open terminal                                            |
+# run command                                              |
     < ssh -i your.pem_file_location user@public_ip >
